@@ -46,7 +46,8 @@ public class Ex3 {
 			System.out.print(j + ", ");
 		}
 		
-		// e) 1,1,2,3,5,8, __ (sequência de fibonacci)
+		// e) 1,1,2,3,5,8, __ (sequência de fibonacci (soma o resultado com o nº anterior a ele) 
+		// -> 0+1=1, 1+1=2, 2+1=3, 3+2=5, 5+3=8, 8+5=13, 13+8=12, ...)
 		System.out.print("\n");
 		
 		int a = 0, b = 1, c, elementos = 10;

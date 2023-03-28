@@ -5,7 +5,6 @@
  * ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
 */
 import java.util.Scanner;
-
 public class Fibonacci {	
 	    public static void main(String[] args) {
 		
